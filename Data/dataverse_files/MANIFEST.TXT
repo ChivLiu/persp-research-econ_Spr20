@@ -1,0 +1,3 @@
+province.dbf (application/dbf) 5735 bytes.
+province.shp (application/shp) 1126780 bytes.
+province.shx (application/shx) 364 bytes.
